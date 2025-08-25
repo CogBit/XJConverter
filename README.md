@@ -44,7 +44,7 @@ XJConverter.exe sample.xml output.json
 ### Example Workflow with Full Paths
 
 ```bash
-XJConverter.exe C:\Users\Flavius\Documents\data.xml C:\Users\Flavius\Documents\data.json
+XJConverter.exe C:\Users\Name\Documents\data.xml C:\Users\Name\Documents\data.json
 ```
 
 This converts `data.xml` to `data.json` in the same folder.
