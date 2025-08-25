@@ -1,11 +1,5 @@
 # XJConverter
 
-Absolutely! Here's the updated **GitHub README** for your `XJConverter` tool, now including the link to your free download on Gumroad:
-
----
-
-# XJConverter
-
 ![XJConverter](https://img.shields.io/badge/XJConverter-XML%20to%20JSON-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
